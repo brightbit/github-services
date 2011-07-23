@@ -1,0 +1,22 @@
+Kikuchat
+=======
+
+Install Notes
+-------------
+
+  1. URL - Base url to your kikuchat installation
+  2. API User - Username of the user you want to message to post from
+  3. API Key - API key listed in the user's settings page
+  4. Room ID- The room's room_id (shown in the URL).
+
+Developer Notes
+---------------
+
+data
+ - url
+ - api_user
+ - api_key 
+ - room_id
+
+payload
+  - refer to docs/github_payload
